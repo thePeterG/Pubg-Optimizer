@@ -56,6 +56,7 @@ echo Task done! 14 out of 16
 taskkill /f /im chrome.exe
 cls
 echo Task done! 15 out of 16
+taskkill /f /im iexplore.exe
 cls
 echo Task done! 16 out of 16
 taskkill /f /im WCChromeNativeMessagingHost.exe
