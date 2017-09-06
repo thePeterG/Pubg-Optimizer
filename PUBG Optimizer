@@ -50,13 +50,13 @@ echo Task done! 12 out of 16
 taskkill /f /im HKCMD.exe
 cls
 echo Task done! 13 out of 16
-taskkill /f /im MicrosoftEdge.exe
+taskkill /f /im MicrosoftEdge.exe /t
 cls
 echo Task done! 14 out of 16
-taskkill /f /im chrome.exe
+taskkill /f /im chrome.exe /t
 cls
 echo Task done! 15 out of 16
-taskkill /f /im iexplore.exe
+taskkill /f /im iexplore.exe /t
 cls
 echo Task done! 16 out of 16
 taskkill /f /im WCChromeNativeMessagingHost.exe
